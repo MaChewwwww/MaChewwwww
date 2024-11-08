@@ -1,4 +1,4 @@
-##👋 Hi, I'm John Mathew Parocha!
+## 👋 Hi, I'm John Mathew Parocha!
 Welcome to my GitHub! I'm a passionate developer skilled in creating innovative projects and solutions.
 
 👨‍💻 About Me
