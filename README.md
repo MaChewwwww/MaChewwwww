@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/john-mathew-parocha-1b78b22b7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:parocha.johnmathew23@gmail.com" target="_blank">
+  <a href="mailto:parocha.johnmathew23@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
@@ -103,12 +103,14 @@
 
 ### 🎓 Academics & Leadership
 
-- **Education**: BS Information Technology (2023 - 2027) at Polytechnic University of the Philippines - QC
-- **Honors**: Consistent Dean's & President's Lister (Avg GWA: 1.4) — Ranked 3rd among all 1st Year BSIT students.
+- **Education**: BS Information Technology (2023 - 2027) at Polytechnic University of the Philippines - Quezon City
+- **Honors**: Consistent Honor Student — Ranked 3rd among all 1st Year BSIT students.
 - **Leadership**: Lead Developer (A.Y. 2025-2026) & Backend Developer (A.Y. 2024-2025) for **CommITs**; Web Dev Member for Google Developer Group (GDG).
 - **Competitions**: 1st Place - Prototype Hackathon (PUPQC IT Month 2025)
 - **Esports History**: 
+  - Converge FiberX Student League Member
   - Siklaw Esports MLBB Head
+  - EG Empire Operations Manager
   - Wisteria Esports Co-Founder
   - Moonton Campus Student Leader Candidate
 
