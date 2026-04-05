@@ -54,7 +54,7 @@
   <a href="https://github.com/MaChewwwww" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://MaChewwwww.github.io" target="_blank">
+  <a href="https://MaChewwwww.github.io](https://machewportfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
   </a>
 </div>
