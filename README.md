@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm John Mathew Parocha! 👋</h1>
-  <h3>aka MaChew | Backend Engineer & Full Stack Developer</h3>
+  <h3>Software Engineer & Full Stack Developer</h3>
 </div>
 
 <div align="center">
