@@ -108,19 +108,6 @@
 
 ---
 
-### 📈 GitHub Trophies & Stats
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MaChewwwww&theme=tokyonight&no-frame=true&row=1&margin-w=15" alt="GitHub Trophies" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaChewwwww&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaChewwwww&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
-</div>
-
----
-
 ### 🎓 Academics & Leadership
 
 - **Education**: BS Information Technology (2023 - 2027) at Polytechnic University of the Philippines - Quezon City
