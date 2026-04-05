@@ -116,10 +116,10 @@
 - **Competitions**: 1st Place - Prototype Hackathon (PUPQC IT Month 2025)
 - **Esports History**: 
   - Converge FiberX Student League Member
+  - Moonton Campus Student Leader
   - Siklaw Esports MLBB Head
   - EG Empire Operations Manager
   - Wisteria Esports Co-Founder
-  - Moonton Campus Student Leader Candidate
 
 ---
 <div align="center">
