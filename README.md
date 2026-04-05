@@ -14,7 +14,7 @@
     I am deeply passionate about architecting scalable systems and leveraging cutting-edge AI. From building robust backends with Python and FastAPI to crafting intelligent full-stack applications with Next.js, I thrive on turning complex problems into intuitive, modern solutions. 
   </p>
   <p>
-    <em>🚀 Architecting ecosystems | 💡 Leveraging AI & Analytics | 🤝 Fostering collaboration | 📈 Pursuing mastery</em>
+    <em>🚀 Architecting Ecosystems | 💡 Leveraging AI & Analytics | 🤝 Fostering Collaboration | 📈 Pursuing Mastery</em>
   </p>
 </div>
 
@@ -51,10 +51,11 @@
 
 <table>
   <tr>
-    <td align="center" width="25%"><b>Languages</b></td>
-    <td align="center" width="25%"><b>Frontend</b></td>
-    <td align="center" width="25%"><b>Backend & Frameworks</b></td>
-    <td align="center" width="25%"><b>Data & Cloud</b></td>
+    <td align="center" width="20%"><b>Languages</b></td>
+    <td align="center" width="20%"><b>Frontend</b></td>
+    <td align="center" width="20%"><b>Backend & Frameworks</b></td>
+    <td align="center" width="20%"><b>Data & Cloud</b></td>
+    <td align="center" width="20%"><b>AI Tools</b></td>
   </tr>
   <tr>
     <td align="center">
@@ -84,6 +85,14 @@
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <br/>
       <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" /> <br/>
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/Windsurf-0284C7?style=flat-square&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" />
     </td>
   </tr>
 </table>
