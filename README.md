@@ -51,11 +51,12 @@
 
 <table>
   <tr>
-    <td align="center" width="20%"><b>Languages</b></td>
-    <td align="center" width="20%"><b>Frontend</b></td>
-    <td align="center" width="20%"><b>Backend & Frameworks</b></td>
-    <td align="center" width="20%"><b>Data & Cloud</b></td>
-    <td align="center" width="20%"><b>AI Tools</b></td>
+    <td align="center" width="16%"><b>Languages</b></td>
+    <td align="center" width="16%"><b>Frontend</b></td>
+    <td align="center" width="16%"><b>Backend & Frameworks</b></td>
+    <td align="center" width="16%"><b>Data & Cloud</b></td>
+    <td align="center" width="16%"><b>AI Libraries</b></td>
+    <td align="center" width="16%"><b>AI Tools</b></td>
   </tr>
   <tr>
     <td align="center">
@@ -87,6 +88,14 @@
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
     </td>
     <td align="center">
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/InsightFace.ai-000000?style=flat-square&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+    </td>
+    <td align="center">
       <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" /> <br/>
       <img src="https://img.shields.io/badge/Windsurf-0284C7?style=flat-square&logoColor=white" /> <br/>
       <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white" /> <br/>
@@ -97,15 +106,17 @@
   </tr>
 </table>
 
-**AI & Libraries**: `OpenCV`, `Pandas`, `NumPy`, `Gemini API`, `InsightFace.ai`, `TensorFlow.js`
-
 ---
 
 ### 📈 GitHub Trophies & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaChewwwww&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaChewwwww&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MaChewwwww&theme=tokyonight&no-frame=true&row=1&margin-w=15" alt="GitHub Trophies" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaChewwwww&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaChewwwww&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
 </div>
 
 ---
