@@ -39,9 +39,9 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🧠 **[TypeCognito](https://typecognito.vercel.app/)** | A smart, multi-modal educational platform merging traditional typing tests with cognitive evaluations. Employs a rigorous anti-cheating UI and adaptive difficulty gateways based on algorithmic thresholds. | `Next.js 16`, `Prisma`, `PostgreSQL`, `Tailwind` |
-| 🛍️ **Cyperus** | AI-driven food ordering platform optimized for real-time local logistics. Features a dual-stage forecasting pipeline (Local EMA + Gemini 1.5 Flash) and interactive zero-cost routing. | `Next.js`, `FastAPI`, `Leaflet`, `OSRM` |
+| 🛍️ **Cyperus** | AI-driven food ordering platform optimized for real-time local logistics. Features a dual-stage forecasting pipeline (Local EMA + Gemini 2.5 Flash) and interactive zero-cost routing. | `Next.js`, `FastAPI`, `Leaflet`, `OSRM` |
 | 📊 **SmartStore** | Intelligent, web-based POS & Inventory system. Solves the complex "Bundle Problem" via a recursive recipe engine and utilizes Holt-Winters forecasting combined with AI executive summaries. | `React`, `MariaDB`, `Gemini AI`, `Docker` |
-| 🛡️ **[Attendify](https://attendify.world)** | Biometric attendance system featuring a 6-stage anti-spoofing liveness detection (Blur, Texture, Reflection, Depth, etc.) to combat buddy punching, secured by a custom 3-layer JWT architecture. | `Next.js 15`, `FastAPI`, `Python`, `Redis` |
+| 🛡️ **[Attendify](https://attendify.world)** | Biometric attendance system using InsightFace buffalo model, featuring a 6-stage anti-spoofing liveness detection (Blur, Texture, Reflection, Depth, etc.) to combat buddy punching, secured by a custom 3-layer JWT architecture. | `Next.js 15`, `FastAPI`, `Python`, `Redis` |
 | 💼 **Payroll Retail System** | Multi-branch desktop payroll engine handling complex formulas, real-time tracking, and role-based access control, supported by hybrid Supabase cloud and local authentication. | `Python`, `CustomTkinter`, `SQLAlchemy` |
 | 💪 **Smart Workout Tracker** | A personalized health tracker parsing semantic user requests via vector embeddings (cosine similarity) to generate reliable workouts through Google Gemini. | `Laravel`, `PHP`, `MySQL`, `Alpine.js` |
 
