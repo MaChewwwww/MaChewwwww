@@ -111,7 +111,7 @@
 ### 🎓 Academics & Leadership
 
 - **Education**: BS Information Technology (2023 - 2027) at Polytechnic University of the Philippines - Quezon City
-- **Honors**: Consistent Honor Student — Ranked 3rd among all 1st Year BSIT students.
+- **Honors**: Consistent Honor Student — Ranked 3rd among all 1st Year of PUPQC BSIT students.
 - **Leadership**: Lead Developer (A.Y. 2025-2026) & Backend Developer (A.Y. 2024-2025) for **CommITs**; Web Dev Member for Google Developer Group (GDG).
 - **Competitions**: 1st Place - Prototype Hackathon (PUPQC IT Month 2025)
 - **Esports History**: 
